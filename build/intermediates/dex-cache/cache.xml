@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\lsuke\Desktop\AndroidDev\MyRadioButtons\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\lsuke\Desktop\AndroidDev\MyRadioButtons\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_79165d6f3d9d6748fc626af5dc634fa98f1e179c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\AndroidDev\MyRadioButtons\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\lsuke\Desktop\AndroidDev\MyRadioButtons\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_965a7909738116e8d5cbc2720b85ea3d6b3a0bda\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\AndroidDev\MyRadioButtons\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\lsuke\Desktop\AndroidDev\MyRadioButtons\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.0_f22c83555b921a7be99120f451ef6a26f70b625f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\AndroidDev\MyRadioButtons\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\lsuke\Desktop\AndroidDev\MyRadioButtons\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.0_8ef604974b96aab6050cc95275911913d7f42398\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\AndroidDev\MyRadioButtons\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\lsuke\Desktop\AndroidDev\MyRadioButtons\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_142a9e59928e22f884fa57efb0f083df39a38144\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\AndroidDev\MyRadioButtons\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\lsuke\Desktop\AndroidDev\MyRadioButtons\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_acf0bd39fc4c75d39861e9e34099297e5c041b10\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\AndroidDev\MyRadioButtons\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="59c4c4e15fee67ff96adb313f5f503b4bbc720f6">
+        <dex dex="C:\Users\lsuke\Desktop\AndroidDev\MyRadioButtons\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_27e1e23f706c3c8dbc2b4f95f11eaa4b388352ce\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\AndroidDev\MyRadioButtons\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\lsuke\Desktop\AndroidDev\MyRadioButtons\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_287cee771209b896736cc90b241d12f6342e3a2d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\AndroidDev\MyRadioButtons\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\lsuke\Desktop\AndroidDev\MyRadioButtons\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.0_ddb0f8f3adaf0d2da6f59b8a9c8d73002c6caf34\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\AndroidDev\MyRadioButtons\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\lsuke\Desktop\AndroidDev\MyRadioButtons\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_f215d8ee95caee4a2b7de001b30694ce10a6667a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\AndroidDev\MyRadioButtons\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\lsuke\Desktop\AndroidDev\MyRadioButtons\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_0e8b7f9a7f46bdcc35147a30c08a1c61cf5186c1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\AndroidDev\MyRadioButtons\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\lsuke\Desktop\AndroidDev\MyRadioButtons\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.0_8ffcd1cc0506d5235783191435cc9f5f7abd4114\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\AndroidDev\MyRadioButtons\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\lsuke\Desktop\AndroidDev\MyRadioButtons\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_5bf821441f30174569086f24b0979609003aa4ee\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\AndroidDev\MyRadioButtons\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\lsuke\Desktop\AndroidDev\MyRadioButtons\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.0_159eb5fddd882c721f746ca92499e4909426e9d7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\AndroidDev\MyRadioButtons\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="3a562e3c20ebe23d045f6a6e1cabd51c426fd8a8">
+        <dex dex="C:\Users\lsuke\Desktop\AndroidDev\MyRadioButtons\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_5fa88b23035e446edfff7bb8608e80aca5c26ca9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\lsuke\Desktop\AndroidDev\MyRadioButtons\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_ed0b355360a5184b5039ac52d97abcd57b167e4c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\AndroidDev\MyRadioButtons\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\lsuke\Desktop\AndroidDev\MyRadioButtons\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_b088ccd8c24694b3b7bbc1f540d886828356e113\classes.dex" />
+    </item>
+
+</items>
